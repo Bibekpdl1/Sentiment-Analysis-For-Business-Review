@@ -12,7 +12,7 @@ Install anaconda to run the ML codes.
 ```bash
 # Clone the repo
 git clone https://github.com/Bibekpdl1/Sentiment-Analysis-For-Business-Review.git
-# Navigate inside the cloned directory named "SentimentAnalysisFinalYearProject"
+# Navigate inside the cloned directory named "Sentiment-Analysis-For-Business-Review"
 
 # Create a local branch from the main 
 git checkout -b local # Do your task in this branch
